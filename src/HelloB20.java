@@ -4,7 +4,7 @@ public class HelloB20 {
 
         for (int i = 0; i <= 5; i++) {
 
-            System.out.println("Today is Saturday");
+            System.out.println("Today is Saturday.");
 
         }
 
